@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		EF4D5A132B9110DE00DA9F47 /* FDTD */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = FDTD; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF4D5A162B9110DE00DA9F47 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		EF8C042D2B91119200B29BD9 /* FDTD main code 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "FDTD main code 3.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				EF4D5A162B9110DE00DA9F47 /* main.swift */,
+				EF8C042D2B91119200B29BD9 /* FDTD main code 3.playground */,
 			);
 			path = FDTD;
 			sourceTree = "<group>";
